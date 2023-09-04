@@ -1,0 +1,15 @@
+{
+    "name": "Cricket Results",
+    "version": "1.0.0",
+    "description": "Best extension in the world for live cricket  match result",
+    "manifest_version": 3,
+    "author": "Kumar Tushar Verma",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Results"
+    },
+    "icons": {
+        "128":"logo4.png"
+    }
+    
+}
